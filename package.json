@@ -1,0 +1,30 @@
+{
+  "name": "hexo-viz",
+  "version": "0.1.0",
+  "description": "Graphviz for hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuchen/hexo-viz.git"
+  },
+  "keywords": [
+    "hexo",
+    "graphviz",
+    "dot",
+    "xdot",
+    "graph"
+  ],
+  "author": "Fu Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fuchen/hexo-viz/issues"
+  },
+  "homepage": "https://github.com/fuchen/hexo-viz#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "viz.js": "^1.7.1"
+  }
+}
